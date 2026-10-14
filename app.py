@@ -369,33 +369,6 @@ if rate_col is not None:
         errors="coerce"
     )
 
-# ============================================================
-# CALCULATE HOURLY JOBS
-# ============================================================
-
-hourly_jobs = 0
-
-if "job_type" in df.columns:
-    job_type_series = (
-        df["job_type"]
-        .astype("string")
-        .str.lower()
-        .str.strip()
-    )
-
-    hourly_mask = job_type_series.str.contains(
-        "hour",
-        na=False
-    )
-
-    hourly_jobs = int(hourly_mask.sum())
-
-else:
-
-    hourly_mask = pd.Series(
-        False,
-        index=df.index
-    )
 
 # ============================================================
 # AVERAGE JOB BUDGET
