@@ -1,0 +1,30 @@
+month,job_category,job_count
+2023-11,Other,1
+2023-12,Marketing,1
+2023-12,Other,6
+2023-12,Sales & Business Development,1
+2023-12,Writing & Content,2
+2024-01,Administrative & Support,5
+2024-01,Data & AI,1
+2024-01,Design,3
+2024-01,Marketing,6
+2024-01,Other,67
+2024-01,Sales & Business Development,6
+2024-01,Software Development,6
+2024-01,Writing & Content,2
+2024-02,Administrative & Support,2541
+2024-02,Data & AI,1981
+2024-02,Design,6091
+2024-02,Marketing,7301
+2024-02,Other,69955
+2024-02,Sales & Business Development,2046
+2024-02,Software Development,6990
+2024-02,Writing & Content,4981
+2024-03,Administrative & Support,2703
+2024-03,Data & AI,2919
+2024-03,Design,8628
+2024-03,Marketing,10527
+2024-03,Other,99291
+2024-03,Sales & Business Development,2802
+2024-03,Software Development,10014
+2024-03,Writing & Content,5950

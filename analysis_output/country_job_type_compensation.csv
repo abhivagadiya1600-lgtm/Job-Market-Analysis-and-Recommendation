@@ -1,0 +1,193 @@
+country,job_type,Job_Count,Average_Hourly_Rate
+Laos,Hourly,3,201.33
+Eritrea,Hourly,1,100.0
+Malawi,Hourly,3,75.5
+Netherlands Antilles,Hourly,2,61.25
+Malaysia,Hourly,325,48.1
+Turks and Caicos Islands,Hourly,4,46.62
+Thailand,Hourly,287,42.21
+Liechtenstein,Hourly,6,41.25
+British Virgin Islands,Hourly,9,40.22
+Zambia,Hourly,21,40.19
+Isle of Man,Hourly,3,37.67
+"Micronesia, Federated States of",Hourly,1,37.5
+Jordan,Hourly,55,36.15
+Azerbaijan,Hourly,23,35.35
+Cayman Islands,Hourly,16,34.28
+United States Virgin Islands,Hourly,7,34.0
+French Guiana,Hourly,1,34.0
+Myanmar,Hourly,6,33.42
+Gibraltar,Hourly,9,33.22
+Andorra,Hourly,8,33.0
+Barbados,Hourly,8,32.75
+Kazakhstan,Hourly,22,32.68
+United States,Hourly,46620,32.58
+Latvia,Hourly,106,32.39
+Hungary,Hourly,148,32.32
+Cyprus,Hourly,160,31.89
+Kenya,Hourly,314,31.82
+Jersey,Hourly,12,31.54
+Guatemala,Hourly,23,31.33
+Bangladesh,Hourly,733,31.32
+Colombia,Hourly,239,31.26
+Curacao,Hourly,6,31.0
+China,Hourly,397,30.75
+Angola,Hourly,3,30.67
+Philippines,Hourly,902,30.55
+Ecuador,Hourly,37,30.49
+Vietnam,Hourly,250,30.37
+Ukraine,Hourly,569,30.33
+Unknown,Hourly,1950,30.31
+Ethiopia,Hourly,91,29.96
+Oman,Hourly,49,29.93
+Egypt,Hourly,232,29.88
+Indonesia,Hourly,229,29.88
+Denmark,Hourly,407,29.78
+Saudi Arabia,Hourly,415,29.77
+Belgium,Hourly,417,29.76
+Argentina,Hourly,143,29.68
+Chile,Hourly,47,29.51
+United Kingdom,Hourly,8113,29.49
+Uruguay,Hourly,27,29.31
+Lithuania,Hourly,156,29.18
+Grenada,Hourly,4,29.12
+Haiti,Hourly,3,29.0
+Bhutan,Hourly,2,29.0
+Czech Republic,Hourly,186,28.95
+Botswana,Hourly,5,28.7
+Bosnia and Herzegovina,Hourly,37,28.65
+Sweden,Hourly,470,28.56
+Norway,Hourly,269,28.5
+Senegal,Hourly,8,28.44
+Puerto Rico,Hourly,86,28.41
+Uganda,Hourly,19,28.39
+Tanzania,Hourly,19,28.37
+Poland,Hourly,404,28.18
+Guyana,Hourly,2,27.75
+Greece,Hourly,148,27.71
+Bahrain,Hourly,62,27.69
+Moldova,Hourly,40,27.69
+Germany,Hourly,2022,27.66
+Nepal,Hourly,58,27.65
+Nigeria,Hourly,272,27.51
+Congo,Hourly,1,27.5
+Albania,Hourly,43,27.48
+Morocco,Hourly,139,27.38
+Rwanda,Hourly,12,27.29
+Israel,Hourly,771,27.21
+Kuwait,Hourly,66,27.1
+Brazil,Hourly,202,27.09
+Ireland,Hourly,495,27.0
+United Arab Emirates,Hourly,1227,26.99
+Canada,Hourly,5054,26.9
+South Africa,Hourly,386,26.88
+Italy,Hourly,504,26.87
+Bulgaria,Hourly,162,26.72
+Switzerland,Hourly,817,26.71
+Madagascar,Hourly,8,26.69
+Turkey,Hourly,367,26.69
+Luxembourg,Hourly,42,26.44
+Palestinian Territories,Hourly,19,26.39
+Monaco,Hourly,7,26.29
+Georgia,Hourly,92,26.25
+Austria,Hourly,281,26.17
+Mongolia,Hourly,10,26.15
+France,Hourly,1213,26.08
+Guinea,Hourly,1,26.0
+Macedonia,Hourly,65,25.98
+Jamaica,Hourly,42,25.93
+Paraguay,Hourly,9,25.83
+Hong Kong,Hourly,409,25.7
+Spain,Hourly,965,25.63
+Mali,Hourly,2,25.5
+Singapore,Hourly,834,25.43
+Estonia,Hourly,205,25.36
+Romania,Hourly,252,25.35
+Slovakia,Hourly,49,25.32
+Tunisia,Hourly,54,25.09
+Mexico,Hourly,289,25.07
+Armenia,Hourly,70,25.04
+Timor-Leste,Hourly,1,25.0
+San Marino,Hourly,1,25.0
+Dominica,Hourly,1,25.0
+Cocos (Keeling) Islands,Hourly,1,25.0
+Pakistan,Hourly,1379,24.98
+Montenegro,Hourly,29,24.97
+Portugal,Hourly,233,24.83
+Costa Rica,Hourly,71,24.63
+Belize,Hourly,6,24.58
+Australia,Hourly,5682,24.46
+Malta,Hourly,86,24.41
+Qatar,Hourly,78,24.41
+New Zealand,Hourly,504,24.34
+Finland,Hourly,160,23.98
+Netherlands,Hourly,1554,23.83
+Panama,Hourly,64,23.78
+"Congo, the Democratic Republic of the",Hourly,4,23.75
+Zimbabwe,Hourly,13,23.69
+India,Hourly,4337,23.68
+Cote d&#039;Ivoire,Hourly,6,23.25
+Serbia,Hourly,135,23.1
+Mauritius,Hourly,30,23.08
+Cameroon,Hourly,12,23.0
+Lebanon,Hourly,107,22.99
+Kyrgyzstan,Hourly,4,22.88
+Iceland,Hourly,29,22.74
+Trinidad and Tobago,Hourly,13,22.65
+Sierra Leone,Hourly,1,22.5
+Guam,Hourly,1,22.5
+Yemen,Hourly,2,22.5
+Peru,Hourly,86,22.2
+Algeria,Hourly,37,22.04
+Slovenia,Hourly,113,21.99
+Japan,Hourly,246,21.99
+Antigua and Barbuda,Hourly,4,21.5
+Russia,Hourly,5,21.5
+Swaziland,Hourly,1,21.5
+Somalia,Hourly,21,21.43
+Uzbekistan,Hourly,41,21.41
+Papua New Guinea,Hourly,6,21.33
+El Salvador,Hourly,15,21.3
+Bermuda,Hourly,8,21.12
+Mauritania,Hourly,3,21.0
+Honduras,Hourly,18,20.81
+Benin,Hourly,6,20.75
+Saint Vincent and the Grenadines,Hourly,3,20.67
+Saint Kitts and Nevis,Hourly,2,20.25
+Kiribati,Hourly,1,20.0
+Gabon,Hourly,3,20.0
+Burundi,Hourly,1,20.0
+Dominican Republic,Hourly,54,19.86
+Mozambique,Hourly,4,19.75
+Seychelles,Hourly,13,19.73
+Venezuela,Hourly,63,19.67
+Togo,Hourly,1,19.5
+Croatia,Hourly,78,19.47
+Sri Lanka,Hourly,60,19.45
+Guernsey,Hourly,7,19.21
+Namibia,Hourly,9,18.39
+American Samoa,Hourly,2,18.0
+Nicaragua,Hourly,6,17.83
+Northern Mariana Islands,Hourly,3,17.5
+Holy See,Hourly,2,17.5
+Reunion,Hourly,5,17.0
+Sint Maarten (Dutch part),Hourly,6,16.67
+Niger,Hourly,1,16.5
+Taiwan,Hourly,53,15.96
+Bahamas,Hourly,11,15.77
+South Korea,Hourly,270,15.44
+Ghana,Hourly,22,15.43
+Maldives,Hourly,1,15.0
+United States Minor Outlying Islands,Hourly,1,15.0
+French Polynesia,Hourly,6,13.67
+Saint Lucia,Hourly,4,13.38
+Fiji,Hourly,2,12.5
+Bolivia,Hourly,7,12.36
+Cambodia,Hourly,3,12.33
+Brunei Darussalam,Hourly,7,11.14
+Aruba,Hourly,8,10.06
+Djibouti,Hourly,1,10.0
+Macao,Hourly,2,8.75
+Guadeloupe,Hourly,2,8.25
+Vanuatu,Hourly,1,6.5
+Central African Republic,Hourly,1,5.0

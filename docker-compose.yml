@@ -1,0 +1,20 @@
+services:
+
+  dashboard:
+    build: .
+    container_name: job-market-dashboard
+    ports:
+      - "8502:8501"
+    environment:
+      - API_URL=http://api:8000
+    depends_on:
+      - api
+    command: ["python", "-m", "streamlit", "run", "app.py", "--server.address=0.0.0.0", "--server.port=8501"]
+
+  api:
+    build: .
+    container_name: job-market-api
+    command: ["python", "-m", "uvicorn", "src.api:app", "--host", "0.0.0.0", "--port", "8000"]
+    ports:
+      - "8000:8000"
+      
