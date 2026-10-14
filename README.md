@@ -68,3 +68,27 @@ Key files:
 4. Start the recommendation dashboard:
 `python -m streamlit run app.py`
 
+Live Demo
+Dashboard: https://job-market-dashboard-q3st.onrender.com
+API Documentation: https://job-market-api-otow.onrender.com/docs
+
+Key Dashboard Metrics
+Total job listings: 244,828
+Countries covered: 212
+Hourly job listings: 140,937
+
+Technology Stack
+Python, Pandas, NumPy
+Matplotlib and Streamlit
+FastAPI
+Docker and Render
+Git and GitHub
+
+Project Objective
+Analyze global job-market trends, identify in-demand roles, compare hourly job rates, and recommend job opportunities based on users’ skills.
+
+Author
+Abhishek Vagadiya
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
+
+GitHub: https://github.com/abhivagadiya1600-lgtm
