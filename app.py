@@ -325,44 +325,19 @@ total_jobs = len(df)
 # HOURLY JOBS
 # ============================================================
 
-hourly_jobs = 0
-
-if job_type_col is not None:
-
-    job_type_clean = (
-        df[job_type_col]
+# HOURLY JOBS
+if "is_hourly" in df.columns:
+    hourly_jobs = (
+        df["is_hourly"]
         .astype(str)
+        .str.strip()
         .str.lower()
-        .str.strip()
+        .isin(["true", "1", "yes"])
+        .sum()
     )
 
-    hourly_jobs = job_type_clean.str.contains(
-        "hour",
-        na=False
-    ).sum()
-
-
-# ============================================================
-# IF JOB TYPE DOESN'T EXIST
-# USE HOURLY RATE COLUMN
-# ============================================================
-
-if hourly_jobs == 0 and rate_col is not None:
-
-    rate_test = (
-        df[rate_col]
-        .astype(str)
-        .str.replace("$", "", regex=False)
-        .str.replace(",", "", regex=False)
-        .str.strip()
-    )
-
-    rate_test = pd.to_numeric(
-        rate_test,
-        errors="coerce"
-    )
-
-    hourly_jobs = rate_test.notna().sum()
+else:
+    hourly_jobs = 0
 
 
 # ============================================================
